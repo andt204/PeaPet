@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/SearchControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/Home.jsp</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/Orders.jsp</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/ManageProduct.jsp</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/EditProduct.jsp</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/entity/Category.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/entity/Cart.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/EditAccount.jsp</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/OrderNowControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/OrderControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/EditAccountControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/LoadMoreControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/dao/DAO.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/EditProductControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/ManageProductControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/ManageAccount.jsp</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/QuantityControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/HomeControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/SearchByAjax.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/Cart.jsp</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/AddToCartControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/AddAccountControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/test/CartTest.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/web/js/manage.js</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/entity/Order.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/entity/Product.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/entity/Account.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/LoadProductControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/LoadAccountControl.java</file>
+            <file>file:/E:/FPTU/Sem_4/PRJ301/template/Ass_PRJ301_DoTruongAn/src/java/control/DetailControl.java</file>
+        </group>
+    </open-files>
+</project-private>
